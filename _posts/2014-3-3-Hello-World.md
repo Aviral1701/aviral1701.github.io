@@ -5,3 +5,12 @@ title: SDSLabs Winter of Code '16 Work Experience
 
 About a month ago, when my idea of open source projects was bleak, SDSLabs came up with Winter of Code program (SWOC). I realised that this could be my first venture in the world of open source programming.
 
+Scrolling through their Github page, I stumbled upon the project called Curvy[]-a multiplayer game, going through its code was at first difficult for me(as this was the first time, i was reading someone else’s code), but gradually I got a hang of it. I prepared my proposal [] for the project and made two PRs on the original project to increase my chances of getting selected.
+
+The results were out and my proposal was selected. I forked and started working on the project. First half of the program presented me with alot of challenges as it included designing a totally new gameplay for single player. I passed the mid-term evaluation successfully and now it was time to complete the rest of the project.
+
+I made my last commit on the project  on 1st Jan’17.And soon the results[] came out and my project was marked passed. In all, I really enjoyed this experience and have learnt alot from it. Special Thanks to my mentor Tanmay[],for guiding me through the project and for invaluable suggestions and his semantically correct coding (which made my life easier).A big thanks to SDSLabs Team for putting up such a innovative event.
+
+This was the story of my first  stepping stone in the Open sourceworld, I hope there is alot more to fork upon!
+
+
