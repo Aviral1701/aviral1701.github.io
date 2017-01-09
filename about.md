@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Aviral is a student of Computer Science in IIT-R.His particular interests include Competitve programming,maths,Web Development and InfoSec.
+Aviral is a BTech. student of Computer Science in IIT-R.His particular interests include Competitve programming,maths,Web Development and InfoSec.
 
 ### Contact me
 
