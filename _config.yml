@@ -6,7 +6,7 @@
 name: Aviral Verma
 
 # Short bio or description (displayed in the header)
-description: A curious computer science enthusiast!
+description: A computer science enthusiast!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /ims.jpg
@@ -19,14 +19,14 @@ avatar: /ims.jpg
 footer-links:
   dribbble:
   email: aviral1701@gmail.com
-  facebook: facebook.com/aviraal1701
+  facebook: facebook.com/aviral1701
   flickr:
   github: github.com/Aviral1701
   instagram:
   linkedin: https://www.linkedin.com/in/aviral-verma-a4a646126
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
