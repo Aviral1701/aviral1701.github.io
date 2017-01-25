@@ -1,0 +1,20 @@
+---
+layout: post
+title: Installing <graphic.h> on Ubuntu 16.04
+---
+
+About a month ago, when my idea of open source projects was bleak, SDSLabs came up with Winter of Code program (SWOC). I realised that this could be my first venture in the world of open source programming.
+
+Scrolling through their Github page, I stumbled upon the project called [Curvy](https://github.com/sdslabs/Curvy) -a multiplayer game, going through its code was at first difficult for me(as I was not habitual in reading someone else's code), but gradually I got a hang of it. I prepared my proposal for the project and made two Pull Requests on the original project to get the momentum going for the upcoming selections.
+
+The results were out and my proposal was selected. I forked and started working on the project. First half of the program presented me with alot of challenges as it included designing a totally new gameplay for single player. I passed the mid-term evaluation successfully and now it was time to complete the rest of the project.
+
+I made my last commit on the project  on 1st Jan’17.And soon the [final results](https://blog.sdslabs.co/2017/01/winter-of-code-2016) came out and my project was marked passed. In all, I really enjoyed this experience and have learnt alot from it. Special Thanks to my mentor [Tanmay](https://github.com/tnmy44), for guiding me through the project and for his suggestions and corrections at crucial times.Also I would like to appreciate his semantically correct coding ,which made my life easier.A big thanks to SDSLabs Team for presenting such an innovative event.I hope they continue such programs in coming times.
+
+  ![_config.yml]({{ site.baseurl }}/images/1.PNG)
+
+This was all about my stepping stone in the Open sourceworld, I hope more such opportunities come my way.
+
+[Play EnCurvy](https://aviral1701.github.io/EnCurvy)
+[View Code](https://github.com/Aviral1701/EnCurvy)
+
