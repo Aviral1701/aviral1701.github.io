@@ -3,7 +3,7 @@ layout: post
 title: Installing Graphics.h on your Ubuntu 16.04 
 ---
 
-Alot of you might have tried installing graphics.h on your ubuntu system,but must be having a hard time.So here are the steps for installing graphics.h library on your Ubuntu 16.04 and latter.
+Installing graphics.h on your ubuntu os can be a confusing process especially for a beginner.So here are the steps for installing graphics.h library on your Ubuntu 16.04.
 
 ## Steps:
 + Download Graphics Package for Ubuntu here: [Libgraph](http://download.savannah.gnu.org/releases/libgraph)
