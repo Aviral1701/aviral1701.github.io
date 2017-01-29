@@ -24,7 +24,6 @@ Alot of you might have tried installing graphics.h on your ubuntu system,but mus
 int main()
 {
 	int gd = DETECT, gm;
-   //in Windows instead of Null you have to provide path of graphic drivers!
 	initgraph(&gd, &gm, ""); 
   line(100,100,1000,1000) ;
 	closegraph();
