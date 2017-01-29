@@ -24,7 +24,7 @@ Alot of you might have tried installing graphics.h on your ubuntu system,but mus
 int main()
 {
 	int gd = DETECT, gm;
-	//in Windows instead of Null you have to provide path of graphic drivers!
+   //in Windows instead of Null you have to provide path of graphic drivers!
 	initgraph(&gd, &gm, ""); 
   line(100,100,1000,1000) ;
 	closegraph();
@@ -33,7 +33,7 @@ int main()
 ## Error Handling: 
 + Some of you might some errors while installing build essential or the other packages.The terminal offers some suggestions at such errors,which you can follow to proceed with your Installations!
 
-<b>Check out my project made using graphics: <b>[View Project](https://github.com/Aviral1701/Lpp-Solver)
+<b>Check out my project made using graphics: </b>[View Project](https://github.com/Aviral1701/Lpp-Solver)
 <br>
-<b>Thanks for reading.Happy `<coding>!`<b>
+<b>Thanks for reading.Happy `<coding>!`</b>
 
