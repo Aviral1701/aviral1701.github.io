@@ -1,3 +1,7 @@
+---
+layout: post
+title: Installing ` <graphics.h> ` on your Ubuntu 16.04 
+---
 
 Alot of you might have tried installing graphics.h on your ubuntu system,but must be having a hard time.So here are the steps for installing graphics.h library on your Ubuntu 16.04 and latter.
 
@@ -27,6 +31,8 @@ int main()
 ```
 ## Error Handling: 
 + Some of you might some errors while installing build essential or the other packages.The terminal offers some suggestions at such errors,which you can follow to proceed with your Installations!
+
+<b>Check out my project made using graphics: <b>[View Project](https://github.com/Aviral1701/Lpp-Solver)
 <hr>
 <b>Thanks for reading.Happy `<coding>!`<b>
 <hr>
