@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installing ` <graphics.h> ` on your Ubuntu 16.04 
+title: Installing Graphics.h on your Ubuntu 16.04 
 ---
 
 Alot of you might have tried installing graphics.h on your ubuntu system,but must be having a hard time.So here are the steps for installing graphics.h library on your Ubuntu 16.04 and latter.
@@ -24,7 +24,8 @@ Alot of you might have tried installing graphics.h on your ubuntu system,but mus
 int main()
 {
 	int gd = DETECT, gm;
-	initgraph(&gd, &gm, ""); //in Windows instead of Null you have to provide path of graphic drivers!
+	//in Windows instead of Null you have to provide path of graphic drivers!
+	initgraph(&gd, &gm, ""); 
   line(100,100,1000,1000) ;
 	closegraph();
 }
