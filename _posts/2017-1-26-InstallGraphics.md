@@ -33,6 +33,6 @@ int main()
 + Some of you might some errors while installing build essential or the other packages.The terminal offers some suggestions at such errors,which you can follow to proceed with your Installations!
 
 <b>Check out my project made using graphics: <b>[View Project](https://github.com/Aviral1701/Lpp-Solver)
-<hr>
+<br>
 <b>Thanks for reading.Happy `<coding>!`<b>
-<hr>
+
