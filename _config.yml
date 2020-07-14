@@ -8,21 +8,18 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Developer Blog                      # the main title
+title: FizzBuzz                     # the main title
 
-tagline: A blog focused around development.  # it will display as the sub-title
+tagline: A SDE's blog  # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+description: Software Engineering adventures, going to depth of things, some caveats..
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://avirlrma.github.io'
 
 author: Aviral Verma                # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: https://avatars1.githubusercontent.com/u/22575238?s=400&u=b1d9d6ec7f8bbe8eb01606dae358312bdc665d0e&v=4   # support internet resources
 
 github:
   username: avirlrma             # change to your github username

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installing `<graphics.h>` on your Ubuntu 16.04 
+title: Installing graphics.h on your Ubuntu 16.04 
 ---
 
 Installing graphics.h on your ubuntu os can be a confusing process especially for a beginner.So here are the steps for it: 
